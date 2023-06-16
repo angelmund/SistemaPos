@@ -19,7 +19,7 @@
         <div class="small-box bg-warning">
             <div class="inner">
                 <h3>Proveedores</h3>
-                <p>Nuevo Provedor</p>
+                <p>VER</p>
             </div>
             <div class="icon">
                 <i class="fas fa-truck"></i>
@@ -34,10 +34,10 @@
         <div class="small-box bg-info">
             <div class="inner">
                 <h3>Ventas</h3>
-                <p>Nueva Venta</p>
+                <p>VER</p>
             </div>
             <div class="icon">
-                <i class="far fa-money-bill-alt"></i>
+                <i class="far fa-handshake"></i>
             </div>
             <a href="#" class="small-box-footer"> Ingresar <i class="fas fa-arrow-circle-right"></i></a>
             
@@ -46,21 +46,49 @@
     
     <!---- Caja 3 ----->
     <div class="col-lg-4 col-md-6 col-sm-12">
-        <div class="col'lg'3 col-6">
-            <div class="small-box bg-success">
-                <div class="inner">
-                    <h3>Hola</h3>
-                    <p>Hola 23</p>
-                </div>
-                <div class="icon">
-                    <i class="fas fa-truck"></i>
-                </div>
-                <a href="#" class="small-box-footer"> Ingresar <i class="fas fa-arrow-circle-right"></i></a>
-                
+        <div class="small-box bg-danger">
+            <div class="inner">
+                <h3>Compras</h3>
+                <p>VER</p>
             </div>
+            <div class="icon">
+                <i class="far fa-money-bill-alt"></i>
+            </div>
+            <a href="#" class="small-box-footer"> Ingresar <i class="fas fa-arrow-circle-right"></i></a>
+            
         </div>
     </div>
+
+    <!---- Caja 4 
+    <div class="col-lg-4 col-md-6 col-sm-12">
+        <div class="small-box bg-primary">
+            <div class="inner">
+                <h3>Total Productos</h3>
+                <p>VER</p>
+            </div>
+            <div class="icon">
+                <i class="fas fa-receipt"></i>
+            </div>
+            <a href="#" class="small-box-footer"> Ingresar <i class="fas fa-arrow-circle-right"></i></a>
+            
+        </div>
+    </div> ----->
+    
 </div>
+
+<section class="col-lg-7 connectedSortable ui-sortable">
+    <!-- Custom tabs (Charts with tabs)-->
+    <div class="card">
+        <div class="card-header ui-sortable-handle">
+            <h3 class="card-title">
+                <i class="fas fa-chart-pie mr-1"></i>
+            </h3>
+        </div>
+        <div class="card-body">
+            <div class="tab-content p-0"></div>
+        </div>
+    </div>
+</section>
 
 
 @stop
