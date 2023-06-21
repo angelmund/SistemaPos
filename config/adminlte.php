@@ -351,10 +351,10 @@ return [
             'label_color' => 'warning',
         ],
         [
-            'text'        => 'Inventario y Kardex',
+            'text'        => 'Inventario',
             'url'         => 'inventario',
             'icon'        => 'fas fa-archive',
-            'label'       => 'I && K',
+            'label'       => 'Inventario',
             'label_color' => 'warning',
         ],
         [

@@ -88,6 +88,11 @@
             <div class="tab-content p-0"></div>
         </div>
     </div>
+    <div class="chartjs-size-monitor-shrink">
+        <canvas id="myChart" width="598" height="280" style="display: block; box-sizing:
+        border-box; min-width: 598px; max-width: 598px; min-height:
+        280px; max-height: 280px;" class="chartjs-render-monitor"></canvas>
+    </div>
 </section>
 
 
