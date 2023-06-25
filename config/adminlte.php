@@ -14,7 +14,7 @@ return [
     |
     */
 
-    'title' => 'AdminLTE 3',
+    'title' => '',
     'title_prefix' => '',
     'title_postfix' => '',
 
@@ -401,7 +401,7 @@ return [
                 [
                     'text' => 'Usuarios',
                     'icon'    => 'fas fa-users',
-                    'url'  => 'usuarios',
+                    'url'  => 'empleados',
                 ],
                 [
                     'text' => 'Configuración',

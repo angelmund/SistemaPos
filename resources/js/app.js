@@ -7,3 +7,5 @@ window.Alpine = Alpine;
 Alpine.plugin(focus);
 
 Alpine.start();
+// CommonJS
+window.Swal = require('sweetalert2')
